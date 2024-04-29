@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Capture the Flags, Pentesting
 - 👯 I’m looking to collaborate on capture the flag and scripting
 - 🤔 I’m looking for help with programming and automation
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clark-pagutaisidro-8b42b61a2/), [Instagram](https://www.instagram.com/clark.klein/), [Facebook](https://www.facebook.com/clark.pagutaisidro.9/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/clark-pagutaisidro-8b42b61a2/),
 - 😄 Pronouns: He/Him
 
 <div align='bottom'>
