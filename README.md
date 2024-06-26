@@ -11,4 +11,4 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=hideinmyskill&color=grey">
 </p>
 <br>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=hideinmyskill&theme=dark&background=000000"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideinmyskill&layout=compact&theme=vision-friendly-dark" width="40%">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=hideinmyskill&theme=dark&background=000000" width="50%"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideinmyskill&layout=compact&theme=vision-friendly-dark" width="40%">
